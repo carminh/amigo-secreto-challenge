@@ -5,7 +5,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/tuusuario/tu-repo?style=social)](https://github.com/tuusuario/tu-repo/network)
 
 ## 📌 Descripción  
-**Secret Santa** es una aplicación interactiva para organizar un intercambio de regalos de forma sencilla y divertida. Permite a los usuarios ingresar nombres y realizar un sorteo aleatorio para asignar a cada persona su "amigo secreto".  
+**Secret Santa** es una pagina web interactiva para organizar un intercambio de regalos de forma sencilla y divertida. Permite a los usuarios ingresar nombres y realizar un sorteo aleatorio para asignar a cada persona su "amigo secreto".
+Soy consciente que según el challenge es "Amigo Secreto", pero quise aprovechar la oportunidad de desarrollar el código practicando mi inglés, donde este juego es mejor conocido como *Secret Santa*
 
 ## 🚀 Funcionalidades  
 ✅ **Agregar participantes** escribiendo nombres en un campo de entrada.  

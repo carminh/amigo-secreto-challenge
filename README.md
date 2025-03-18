@@ -19,5 +19,5 @@ Soy consciente que según el challenge es "Amigo Secreto", pero quise aprovechar
 - **CSS3**  
 - **JavaScript (ES6+)**  
 
-📌 Contribuciones
+##📌 Contribuciones
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar la aplicación, siéntete libre de abrir un Issue o un Pull Request.
